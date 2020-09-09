@@ -1,0 +1,2 @@
+rootProject.name='RGBpicker'
+include ':app'
